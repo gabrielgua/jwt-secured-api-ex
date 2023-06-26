@@ -1,4 +1,4 @@
-package com.gabriel.jwtexample.Jwt.example.api.security.auth;
+package com.gabriel.jwtexample.Jwt.example.api.security.authentication;
 
 import com.gabriel.jwtexample.Jwt.example.api.assembler.UserAssembler;
 import com.gabriel.jwtexample.Jwt.example.api.model.UserRegisterRequest;

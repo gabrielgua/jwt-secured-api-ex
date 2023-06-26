@@ -1,4 +1,4 @@
-package com.gabriel.jwtexample.Jwt.example.api.security.auth;
+package com.gabriel.jwtexample.Jwt.example.api.security.authentication;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;

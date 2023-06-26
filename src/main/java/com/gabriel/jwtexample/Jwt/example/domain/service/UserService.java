@@ -1,10 +1,8 @@
 package com.gabriel.jwtexample.Jwt.example.domain.service;
 
-import com.gabriel.jwtexample.Jwt.example.api.security.auth.AuthService;
 import com.gabriel.jwtexample.Jwt.example.domain.model.User;
 import com.gabriel.jwtexample.Jwt.example.domain.model.UserRole;
 import com.gabriel.jwtexample.Jwt.example.domain.repository.UserRepository;
-import lombok.AllArgsConstructor;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
