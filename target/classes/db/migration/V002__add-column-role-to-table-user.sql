@@ -1,0 +1,1 @@
+alter table user add column role varchar(255) not null after email;
